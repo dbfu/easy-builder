@@ -4,6 +4,7 @@
     "index": "./src/index.ts"
   },
   "vendor": false,
+  "outputDir": "./docs",
   "devServer": {
     "hot": false
   },

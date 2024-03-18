@@ -14,7 +14,7 @@ interface UserMessage {
   status: 'success',
 }
 
-const RequestUrl = 'http://110.42.213.160:7001';
+const RequestUrl = 'https://ai.fluxyadmin.cn';
 
 export default function AIContent({ ctx }: { ctx: IPublicModelPluginContext }) {
 
