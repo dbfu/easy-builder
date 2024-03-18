@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+
+  .left {
+
+    padding: 24px;
+    box-shadow: 5px 5px 5px #efefef;
+    overflow-x: auto;
+  }
+
+  .right {
+    flex: 1;
+    position: relative;
+    height: calc(100vh - 65px);
+    background-color: #F2F7FA;
+  }
+}

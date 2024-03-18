@@ -1,0 +1,24 @@
+.message-box {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  .user-message {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: end;
+    gap: 20px;
+
+    .user-message-content {
+      margin-top: 20px;
+      background-color: #1890ff28;
+      border-radius: 6px;
+      padding: 8px 12px;
+    }
+  }
+
+  .ai-message {
+    display: flex;
+    gap: 20px;
+  }
+}
