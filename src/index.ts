@@ -22,12 +22,12 @@ async function registerPlugins() {
     info: {
       urls: [
         {
-          key: '设计器',
-          value: 'https://github.com/alibaba/lowcode-demo/tree/main/demo-basic-antd',
+          key: '插件源码',
+          value: 'https://github.com/dbfu/easy-builder',
         },
         {
-          "key": "物料",
-          "value": "https://github.com/alibaba/lowcode-materials/tree/main/packages/antd-lowcode-materials"
+          key: '接口源码',
+          value: 'https://github.com/dbfu/easy-builder-server',
         }
       ],
     },
@@ -40,7 +40,6 @@ async function registerPlugins() {
   await plugins.register(SchemaPlugin);
 
   await plugins.register(ManualPlugin);
-
 
   await plugins.register(SetRefPropPlugin);
 

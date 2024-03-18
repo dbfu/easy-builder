@@ -1,8 +1,8 @@
 {
   "name": "easy-builder",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "易造低代码平台",
-  "repository": "git@github.com:alibaba/lowcode-demo.git",
+  "repository": "https://github.com/dbfu/easy-builder",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
