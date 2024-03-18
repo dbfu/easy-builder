@@ -42,20 +42,20 @@
     },
     {
       "package": "ali-lowcode-dbfu-components",
-      "version": "0.19.0",
+      "version": "0.20.0",
       "library": "BizComps",
       "urls": [
-        "https://unpkg.com/ali-lowcode-dbfu-components@0.19.0/build/lowcode/render/default/view.js",
-        "https://unpkg.com/ali-lowcode-dbfu-components@0.19.0/build/lowcode/render/default/view.css"
+        "https://unpkg.com/ali-lowcode-dbfu-components@0.20.0/build/lowcode/render/default/view.js",
+        "https://unpkg.com/ali-lowcode-dbfu-components@0.20.0/build/lowcode/render/default/view.css"
       ],
       "editUrls": [
-        "https://unpkg.com/ali-lowcode-dbfu-components@0.19.0/build/lowcode/view.js",
-        "https://unpkg.com/ali-lowcode-dbfu-components@0.19.0/build/lowcode/view.css"
+        "https://unpkg.com/ali-lowcode-dbfu-components@0.20.0/build/lowcode/view.js",
+        "https://unpkg.com/ali-lowcode-dbfu-components@0.20.0/build/lowcode/view.css"
       ],
       "advancedUrls": {
         "default": [
-          "https://unpkg.com/ali-lowcode-dbfu-components@0.19.0/build/lowcode/render/default/view.js",
-          "https://unpkg.com/ali-lowcode-dbfu-components@0.19.0/build/lowcode/render/default/view.css"
+          "https://unpkg.com/ali-lowcode-dbfu-components@0.20.0/build/lowcode/render/default/view.js",
+          "https://unpkg.com/ali-lowcode-dbfu-components@0.20.0/build/lowcode/render/default/view.css"
         ]
       },
       "advancedEditUrls": {}
@@ -66,15 +66,15 @@
       "exportName": "AliLowcodeDbfuComponentsMeta",
       "npm": {
         "package": "ali-lowcode-dbfu-components",
-        "version": "0.19.0"
+        "version": "0.20.0"
       },
-      "url": "https://unpkg.com/ali-lowcode-dbfu-components@0.19.0/build/lowcode/meta.js",
+      "url": "https://unpkg.com/ali-lowcode-dbfu-components@0.20.0/build/lowcode/meta.js",
       "urls": {
-        "default": "https://unpkg.com/ali-lowcode-dbfu-components@0.19.0/build/lowcode/meta.js"
+        "default": "https://unpkg.com/ali-lowcode-dbfu-components@0.20.0/build/lowcode/meta.js"
       },
       "advancedUrls": {
         "default": [
-          "https://unpkg.com/ali-lowcode-dbfu-components@0.19.0/build/lowcode/meta.js"
+          "https://unpkg.com/ali-lowcode-dbfu-components@0.20.0/build/lowcode/meta.js"
         ]
       }
     }
